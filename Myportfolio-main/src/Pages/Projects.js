@@ -27,7 +27,7 @@ function Projects() {
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="/images/Tutorial -Ninja.png"
+              imgPath="/images/Tutorial-Ninja.png"
               title="Automation & Manual Testing Tutorial-Ninja"
               description="inja-Tutorial is an educational demo website designed for automation practice, featuring dynamic content like forms, alerts, and tables. This project involved automating key user interactions and validating UI elements using tools such as Selenium"
               tech="Tech-Stacks"
